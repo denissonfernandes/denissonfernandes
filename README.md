@@ -45,17 +45,6 @@
 
 ---
 
-### 📂 Neste GitHub você encontra
-
-- Pipelines de engenharia de dados (Databricks / PySpark)
-- Projetos e templates de Power BI
-- Scripts SQL e modelagens dimensionais
-- Automações de CI/CD para artefatos de BI
-- Estudos e exemplos com Microsoft Fabric
-- Integrações via API em Python
-
----
-
 ### 🎯 Objetivo
 
 Construir soluções de dados escaláveis, bem documentadas e fáceis de manter — aplicando boas práticas de arquitetura, qualidade e governança para gerar valor real ao negócio.
