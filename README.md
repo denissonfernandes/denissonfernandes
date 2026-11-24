@@ -6,7 +6,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/denissonfernandes"><img src="https://img.shields.io/badge/LinkedIn-denissonfernandes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Rio%20Branco%2C%20AC-Remoto-0B1F3A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localização" />
+  <img src="https://img.shields.io/badge/Brasil-Remoto-0B1F3A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localização" />
 </p>
 
 </div>
@@ -27,15 +27,6 @@ Hoje administro o ambiente **Power BI Premium / Microsoft Fabric de uma das maio
     <td align="center" width="25%"><h3>10+</h3><sub>grandes marcas atendidas em consultoria</sub></td>
   </tr>
 </table>
-
-### 💼 Experiência
-
-| Período | Cargo | Empresa | Destaques |
-|---|---|---|---|
-| 2022 – atual | **Administrador Sênior de Power BI** | Grande varejista nacional | Gestão de capacidades, workspaces e desempenho no Power BI Premium / Fabric · Criação do CoE de BI · Automação via API REST do Power BI |
-| 2021 – 2022 | **Analista de BI** | Central Ailos | Dashboards em Power BI e ETL integrando SQL Server, Excel, TXT/CSV e SharePoint |
-| 2019 – 2021 | **Especialista de BI** | Biviz Consultoria de Dados | Projetos para Neogrid, Grupo Silvio Santos, Hyundai, Stellantis, Melitta e outros · Modelagem e integração de ERPs · Alertas com Power Automate |
-| 2019 | **Analista de Dados** | O Boticário (franquia) | Análise comercial para as compras semanais de O Boticário, QDB, OUI e Eudora |
 
 ### 🧭 Áreas de atuação
 
