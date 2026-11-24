@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:1E4E8C&height=190&section=header&text=Denisson%20Fernandes&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Especialista%20em%20Business%20Intelligence%20%26%20Analytics&descSize=17&descAlignY=58" width="100%" alt="Denisson Fernandes" />
+<img src="./assets/banner.svg" width="100%" alt="Denisson Fernandes — Especialista em Business Intelligence & Analytics" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=900&color=3FC1A5&center=true&vCenter=true&width=640&lines=Power+BI+Premium+%26+Microsoft+Fabric;Databricks+%C2%B7+SQL+%C2%B7+Python;Governan%C3%A7a+de+BI+e+Centro+de+Excel%C3%AAncia;Dados+confi%C3%A1veis+para+decis%C3%B5es+melhores" alt="Typing SVG" /></a>
 
@@ -17,13 +17,13 @@
 
 Profissional de dados com **7 anos de experiência**, atuando de ponta a ponta: da **ingestão e modelagem em Databricks e SQL** aos **painéis que a diretoria usa para decidir**.
 
-Hoje administro o ambiente **Power BI Premium / Microsoft Fabric da Casas Bahia**, onde estruturei o **Centro de Excelência (CoE) de BI** e defini padrões de governança e boas práticas adotados pelas áreas de negócio. Escolho a ferramenta pelo problema — Power BI, Apache Superset ou Metabase — com pipelines em Databricks, SQL e Python.
+Hoje administro o ambiente **Power BI Premium / Microsoft Fabric de uma das maiores varejistas do Brasil**, onde estruturei o **Centro de Excelência (CoE) de BI** e defini padrões de governança e boas práticas adotados pelas áreas de negócio. Escolho a ferramenta pelo problema — Power BI, Apache Superset ou Metabase — com pipelines em Databricks, SQL e Python.
 
 <table>
   <tr>
     <td align="center" width="25%"><h3>7 anos</h3><sub>trabalhando com dados</sub></td>
     <td align="center" width="25%"><h3>Fabric</h3><sub>administração do ambiente Premium</sub></td>
-    <td align="center" width="25%"><h3>CoE</h3><sub>de BI criado na Casas Bahia</sub></td>
+    <td align="center" width="25%"><h3>CoE</h3><sub>de BI estruturado em grande varejista</sub></td>
     <td align="center" width="25%"><h3>10+</h3><sub>grandes marcas atendidas em consultoria</sub></td>
   </tr>
 </table>
@@ -32,7 +32,7 @@ Hoje administro o ambiente **Power BI Premium / Microsoft Fabric da Casas Bahia*
 
 | Período | Cargo | Empresa | Destaques |
 |---|---|---|---|
-| 2022 – atual | **Administrador Sênior de Power BI** | Casas Bahia | Gestão de capacidades, workspaces e desempenho no Power BI Premium / Fabric · Criação do CoE de BI · Automação via API REST do Power BI |
+| 2022 – atual | **Administrador Sênior de Power BI** | Grande varejista nacional | Gestão de capacidades, workspaces e desempenho no Power BI Premium / Fabric · Criação do CoE de BI · Automação via API REST do Power BI |
 | 2021 – 2022 | **Analista de BI** | Central Ailos | Dashboards em Power BI e ETL integrando SQL Server, Excel, TXT/CSV e SharePoint |
 | 2019 – 2021 | **Especialista de BI** | Biviz Consultoria de Dados | Projetos para Neogrid, Grupo Silvio Santos, Hyundai, Stellantis, Melitta e outros · Modelagem e integração de ERPs · Alertas com Power Automate |
 | 2019 | **Analista de Dados** | O Boticário (franquia) | Análise comercial para as compras semanais de O Boticário, QDB, OUI e Eudora |
